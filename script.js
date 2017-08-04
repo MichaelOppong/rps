@@ -1,10 +1,1 @@
-$(document).ready(function(){
-$("#rock").click(function() {
-    $("#scissors").hide();
-});
-$("#scissors").click(function() {
-    $("#paper").hide();
-});$("#paper").click(function() {
-    $("#rock").hide();
-});
-});
+var _0xb42b=["\x68\x69\x64\x65","\x23\x73\x63\x69\x73\x73\x6F\x72\x73","\x63\x6C\x69\x63\x6B","\x23\x72\x6F\x63\x6B","\x23\x70\x61\x70\x65\x72","\x72\x65\x61\x64\x79"];$(document)[_0xb42b[5]](function(){$(_0xb42b[3])[_0xb42b[2]](function(){$(_0xb42b[1])[_0xb42b[0]]()});$(_0xb42b[1])[_0xb42b[2]](function(){$(_0xb42b[4])[_0xb42b[0]]()});$(_0xb42b[4])[_0xb42b[2]](function(){$(_0xb42b[3])[_0xb42b[0]]()})})
