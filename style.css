@@ -1,0 +1,10 @@
+h2 {
+    text-align: center;
+}
+
+img {
+    max-width: 35vw;
+    max-height: 35vh;
+    cursor: pointer;
+    margin: 5vh 5vw;
+}
